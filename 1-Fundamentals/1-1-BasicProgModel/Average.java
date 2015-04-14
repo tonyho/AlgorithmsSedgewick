@@ -22,6 +22,7 @@ public class Average {
         int count = 0;       // number input values
         double sum = 0.0;    // sum of input values
 
+        StdOut.println("Here we go");
         // read data and compute statistics
         while (!StdIn.isEmpty()) {
             double value = StdIn.readDouble();

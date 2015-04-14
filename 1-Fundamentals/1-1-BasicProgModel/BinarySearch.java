@@ -42,7 +42,7 @@ public class BinarySearch {
 
     public static void main(String[] args) {
         int[] whitelist = In.readInts(args[0]);
-
+        StdOut.println("Here we go.");
         Arrays.sort(whitelist);
 
         // read key; print if not in whitelist

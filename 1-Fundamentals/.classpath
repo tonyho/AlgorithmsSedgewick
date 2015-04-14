@@ -8,5 +8,7 @@
 	<classpathentry kind="lib" path="/Users/aistrate/Languages/Java/Sedgewick/AlgorithmsSedgewick/algs4.jar"/>
 	<classpathentry kind="lib" path="/Users/aistrate/Languages/Java/Sedgewick/AlgorithmsSedgewick/stdlib.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/hexiongjun/algs4/AlgorithmsSedgewick/algs4.jar"/>
+	<classpathentry kind="lib" path="/home/hexiongjun/algs4/AlgorithmsSedgewick/stdlib.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
