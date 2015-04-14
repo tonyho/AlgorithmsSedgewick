@@ -53,8 +53,8 @@
       <file leaf-file-name="Practice_StdInOut.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/1-Fundamentals/1-1-BasicProgModel/Practice_StdInOut.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2891933">
-              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.20243531">
+              <caret line="7" column="114" selection-start-line="7" selection-start-column="114" selection-end-line="7" selection-end-column="114" />
               <folding />
             </state>
           </provider>
@@ -649,12 +649,12 @@
       <option name="number" value="Default" />
       <updated>1428830106736</updated>
       <workItem from="1428830108035" duration="6562000" />
-      <workItem from="1428934295308" duration="4396000" />
+      <workItem from="1428934295308" duration="5000000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10958000" />
+    <option name="totallyTimeSpent" value="11562000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="36" y="-4" width="1888" height="1088" extended-state="6" />
@@ -841,8 +841,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1-Fundamentals/1-1-BasicProgModel/Practice_StdInOut.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2891933">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.20243531">
+          <caret line="7" column="114" selection-start-line="7" selection-start-column="114" selection-end-line="7" selection-end-column="114" />
           <folding />
         </state>
       </provider>

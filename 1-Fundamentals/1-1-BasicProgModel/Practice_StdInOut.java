@@ -5,6 +5,7 @@
  *      then use the Ctrl + Shift + F10 to run the program
  *      After that, input some double value in the run window, and use the enter to terminate the input
  *      And enter/Ctrl+d again to pass the Stdin.isEmpty
+ *      This is different between the Intellij idea run window and terminal, in the terminal use the ctrl+d instead
  *
  *      Other method is use the echo and pipe to pass the number to program:
  *          echo 12.3 23.2 543.4 | java XXXXX Practice_StdInOut
