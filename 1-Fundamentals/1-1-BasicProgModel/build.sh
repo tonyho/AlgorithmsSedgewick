@@ -1,1 +1,2 @@
-javac -cp ~/algs4/stdlib.jar Average.java -verbose
+javac -cp .:../stdlib.jar Matrix.java 
+java -cp .:../stdlib.jar Matrix
